@@ -1,6 +1,6 @@
 # Fashion-MNIST-with-Autoencoder
 
-#A Brief Introduction to Autoencoders
+## A Brief Introduction to Autoencoders
 
 Deep learning autoencoders are a type of neural network that can reconstruct specific images from the latent code space.
 
